@@ -2,9 +2,9 @@
  
 **README.md**
 
-# Project Name
+# Code Debugging
 
-Welcome to the README file for the Project Name. This document provides an overview of the project, its purpose, and instructions on how to use it.
+Welcome to the README file for the code debugging. This document provides an overview of the project, bugs, how i fixed it.
 
 ## Table of Contents
 
